@@ -1,0 +1,194 @@
+.container999 {
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+  border: 1px solid rgba(128, 128, 128, 0.664);
+  padding: 20px;
+  border-radius: 7px;
+}
+
+.container999 h2 {
+  text-align: center;
+}
+
+.form-group12 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.form-group1234 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.form-group12 label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group12 input,
+select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.form-group12 select {
+  width: 95%;
+  padding: 11px 8px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.button-group12 {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.button-group12 button {
+  padding: 10px 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cancel-button {
+  background-color: #e0e0e0;
+}
+
+.save-button {
+  background-color: #862692;
+  color: white;
+}
+
+.profile-info {
+  text-align: left;
+}
+
+.profile-group {
+  margin-bottom: 10px;
+}
+
+.profile-group label {
+  font-weight: bold;
+  margin: 5px 0px;
+  font-size: 18px;
+  color: rgba(75, 74, 74, 0.775);
+  font-family: Poppins;
+}
+
+.profile-group p {
+  margin: 0;
+}
+
+.edit-button113 {
+  width: 100%;
+  padding: 10px 0;
+  background-color: #862692;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.Link-wala
+{
+  text-decoration: none;
+}
+
+
+.two-in-one {
+  width: 100%;
+  display: flex;
+  gap: 40%;
+}
+
+/* Left-side */
+
+.container00 {
+  width: 100%;
+  max-width: 340px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+  /* border: 1px solid; */
+  padding: 20px;
+  box-shadow: 0 0 4px rgba(128, 128, 128, 0.566);
+}
+
+.profile-card00 {
+  background-color: #f0f8ff;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  position: relative;
+}
+
+.profile-info00 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.profile-avatar00 {
+  background-color: #862692;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.pro-name00 h3 {
+  margin: 0;
+}
+
+.pro-name00 p {
+  margin: 0;
+  color: gray;
+}
+
+.edit-button00 {
+  background: none;
+  border: none;
+  color: #862692;
+  cursor: pointer;
+}
+
+.vip-link00 {
+  display: block;
+  margin-top: 10px;
+  color: #862692;
+  text-decoration: none;
+}
+
+.details-section00 {
+  margin-top: 20px;
+}
+.details-list00 li {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.details-list00 li:last-child {
+  border-bottom: none;
+}
+
+
+.icon00 {
+  margin-right: 10px;
+  color: #862692;
+}

@@ -1,0 +1,107 @@
+.main-box {
+    height: 70px;
+    width: 100%;
+    padding: 0px 50px;
+}
+
+.inner-box {
+    width: 100%;
+    border: 1px solid;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap; /* Added to allow wrapping of columns */
+    margin: 10px 0px;
+}
+
+.colums {
+    width: 25%;
+    border-right: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 10px;
+}
+
+.btn-div5 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.admin {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.add-user {
+    /* width: 90%; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-user-btn25 {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    margin: 20px 0px;
+}
+
+/* Tablet view */
+@media (max-width: 768px) {
+    .main-box {
+        padding: 0px 20px;
+    }
+
+    .colums, .btn-div5 {
+        width: 50%; /* Adjusting width to fit two columns per row */
+    }
+
+    .btn-div5 {
+        gap: 5px; /* Reducing gap for smaller screens */
+    }
+
+    .add-user {
+        justify-content: center; /* Centering the add user button */
+    }
+}
+
+/* Mobile view */
+@media (max-width: 480px) {
+    .main-box {
+        padding: 0px 10px;
+    }
+
+    .colums, .btn-div5 {
+        width: 100%; /* Adjusting width to fit one column per row */
+        border-right: none; /* Removing border-right for mobile view */
+        border-bottom: 1px solid; /* Adding bottom border instead */
+    }
+
+    .btn-div5 {
+        gap: 5px; /* Reducing gap for smaller screens */
+    }
+
+    .add-user {
+        justify-content: center; /* Centering the add user button */
+        width: 100%; /* Full width on mobile */
+    }
+
+    .add-user-btn25 {
+        width: 100%; /* Full width on mobile */
+        margin: 10px 0px; /* Reducing margin for mobile view */
+    }
+}
+
+
+.admin-search
+{
+    padding: 10px 20px;
+    width: 100%;
+    border-radius: 6px;
+}

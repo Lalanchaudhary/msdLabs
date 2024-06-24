@@ -1,0 +1,90 @@
+
+.bdy
+{
+    height: 80vh;
+    width: 100vw;
+    background-color: White;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main123
+{
+    height: 600px;
+    width: 450px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main123 img
+{
+    margin: 30px 170px;
+}
+.cut
+{
+    position: relative;
+    top: 15px;
+    left: 420px;
+    color: rgb(104, 104, 104);
+}
+.heading
+{
+    width: 100%;
+    margin:20px auto 50px 45px;
+}
+
+.boxes1
+{
+    /* padding: 15px; */
+    width: 360px;
+    margin: 5px 0px 20px 45px;
+    background-color: rgb(245, 245, 245);
+    border: none;
+}
+.btn1
+{
+    padding: 10px;
+    width: 360px;
+    /* margin-left:45px; */
+    font-size: 20px;
+    border: none;
+    background-color: rgb(71, 30, 134);
+    color: white;
+    border-radius: 5px;
+    /* box-shadow: 0 0 6px rgb(72, 72, 72); */
+    transition: all 2s;
+}
+
+.links1
+{
+    width: 370px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.links1 a
+{
+    width: 150px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.upimage
+{
+   height: 100px;
+   width: 100px;
+   margin: 20px auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+/* .upimage img
+{
+   height: 100px;
+   width: 100px;
+   object-fit: contain ;
+} */

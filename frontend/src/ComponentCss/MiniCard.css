@@ -1,0 +1,29 @@
+.min-card
+{
+    height:80px;
+    width: 200px;
+    display: flex;
+    /* border: 1px solid; */
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 40px; */
+    border-radius: 10px;
+    box-shadow: 0 0 4px rgba(168, 168, 168, 0.567);
+}
+
+.slick-slide >div
+{
+    margin: 5px 5px;
+}
+
+.min-card img
+{
+    height: 61px;
+    width: 61px;
+    border-radius: 50%;
+}
+.min-card p
+{
+    font-weight: bold;
+    margin-top: 8px;
+}

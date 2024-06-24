@@ -1,0 +1,21 @@
+.body-para
+{
+    height: 50px;
+    overflow: hidden;
+}
+
+.title-para
+{
+    height: 48px;
+}
+.maink-card12
+{
+    width: 22rem;
+}
+@media(max-width:500px)
+{
+    .maink-card12
+    {
+        width: 90%;
+    }
+}

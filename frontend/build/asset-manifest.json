@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f828f6f.css",
+    "main.js": "/static/js/main.5285d57e.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/new2.jpg": "/static/media/new2.d57eec6ed55423d760f4.jpg",
+    "static/media/new3.jpg": "/static/media/new3.22f5e808ebfc5205125b.jpg",
+    "static/media/MSD.PNG": "/static/media/MSD.8ec3944d3d0361b79279.PNG",
+    "static/media/new1.jpg": "/static/media/new1.c6634d199b47ced4b431.jpg",
+    "static/media/landing.jpg": "/static/media/landing.e8c617ff4de86035aea3.jpg",
+    "static/media/MSD2.png": "/static/media/MSD2.b6a2469d46009201df99.png",
+    "static/media/msd logoooo.png": "/static/media/msd logoooo.0e9f97424ece254c7ac4.png",
+    "static/media/Vitamin.webp": "/static/media/Vitamin.aa03981a9407568fd534.webp",
+    "static/media/Arthritis.webp": "/static/media/Arthritis.396d47166441710fba54.webp",
+    "static/media/Thyroid.webp": "/static/media/Thyroid.886629569372db9923a4.webp",
+    "static/media/Heart.webp": "/static/media/Heart.c91df233a1c0701b7d60.webp",
+    "static/media/Diabetes.webp": "/static/media/Diabetes.1caeb703c3cf7283ca78.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Fullbody.webp": "/static/media/Fullbody.5fae21914d8e0ba77020.webp",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.4f828f6f.css.map": "/static/css/main.4f828f6f.css.map",
+    "main.5285d57e.js.map": "/static/js/main.5285d57e.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f828f6f.css",
+    "static/js/main.5285d57e.js"
+  ]
+}
