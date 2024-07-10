@@ -6,7 +6,7 @@ import { FaArrowLeftLong, FaArrowRight } from "react-icons/fa6";
 import { FiUnlock } from "react-icons/fi";
 import { toast } from "react-toastify";
 import { IoHelpBuoyOutline } from "react-icons/io5";
-import axios from "axios";
+import axios from "axios"; 
 import msd from '../Assets/MSD.PNG'
 import { useNavigate } from "react-router-dom";
 import { Container } from "react-bootstrap";
